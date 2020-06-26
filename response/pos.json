@@ -1,0 +1,19 @@
+{
+    "id": 10190534,
+    "qr": {
+        "image": "https://www.mercadopago.com/instore/merchant/qr/10190534/15829b6de4784f5db32526e64f8c1c5c99207fe2cea3415bac6d70af8baa6a98.png",
+        "template_document": "https://www.mercadopago.com/instore/merchant/qr/10190534/template_15829b6de4784f5db32526e64f8c1c5c99207fe2cea3415bac6d70af8baa6a98.pdf",
+        "template_image": "https://www.mercadopago.com/instore/merchant/qr/10190534/template_15829b6de4784f5db32526e64f8c1c5c99207fe2cea3415bac6d70af8baa6a98.png"
+    },
+    "status": "active",
+    "date_created": "2020-06-26T15:24:54.000-04:00",
+    "date_last_updated": "2020-06-26T15:24:54.000-04:00",
+    "uuid": "15829b6de4784f5db32526e64f8c1c5c99207fe2cea3415bac6d70af8baa6a98",
+    "user_id": 586728271,
+    "name": "",
+    "fixed_amount": true,
+    "category": 621102,
+    "store_id": "32226963",
+    "external_store_id": "suc32834710001",
+    "external_id": "pos32834710001"
+}
