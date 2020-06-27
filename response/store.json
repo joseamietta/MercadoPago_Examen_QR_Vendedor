@@ -1,12 +1,1 @@
-{
-    "id": "32226963",
-    "name": "Sucursal 32834710",
-    "date_creation": "2020-06-26T19:16:47.042Z",
-    "location": {
-        "address_line": "Sinclair 2929, Palermo, Capital Federal, Argentina",
-        "reference": "Piso 1",
-        "latitude": -34.5756022,
-        "longitude": -58.4249225
-    },
-    "external_id": "suc32834710001"
-}
+{"id":"32242368","name":"Sucursal 32834710","date_creation":"2020-06-27T22:17:18.979Z","location":{"address_line":"Sinclair 2929, Palermo, Capital Federal, Argentina","reference":"Piso 1","latitude":-34.5756022,"longitude":-58.4249225},"external_id":"suc32834710002"}
